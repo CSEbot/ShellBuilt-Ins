@@ -1,6 +1,8 @@
 # Project 2: Shell Builtins
 
-#TO RUN: Open Main Application file, and it will open the shell
+#TO RUN: Open Main Application file, and it will open the shell (Main.exe)
+
+This is how it will compile
 
 ## Description
 
