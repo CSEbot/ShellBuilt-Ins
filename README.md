@@ -1,12 +1,13 @@
-#Project 2: Shell Builtins
+**Project 2: Shell Builtins**
 Description
 For this project we'll be adding commands to a simple shell.
 
-#commands:
+**commands:**
 exit
 cd
 env
 bind
-#To Run or Compile 
+
+**To Run or Compile **
 1. Open exe file
 2. OR clone repo and combile in an IDE
