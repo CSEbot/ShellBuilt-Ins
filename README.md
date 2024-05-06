@@ -1,5 +1,7 @@
 # Project 2: Shell Builtins
 
+#TO RUN: Open Main Application file, and it will open the shell
+
 ## Description
 
 For this project we'll be adding commands to a simple shell. 
